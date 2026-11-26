@@ -1,5 +1,5 @@
 ---
-name: perspective-illusion-city-swap
+name: bxqn-perspective-illusion-city-swap
 description: 用 Perspective Illusion 做某个城市某个景观的插画风动画，或把已有的城市版提示词改编到另一个城市。傻瓜式编排 Skill：先检查本地有没有 perspective-illusion 执行 Skill，没有就自动安装；再检查用户还缺城市、景观、可选项哪一步，缺哪补哪；最后在同一会话里自动接力执行、产出动画预览。用户说想做 X 市某个景观的透视错觉动画、或给出提示词要求换城市时使用。
 ---
 

@@ -1,4 +1,4 @@
-# perspective-illusion-city-swap
+# bxqn-perspective-illusion-city-swap
 
 用 Perspective Illusion 做某个城市、某个景观的插画风动画的傻瓜式编排 Skill。
 
@@ -15,8 +15,8 @@
 
 任选一种：
 
-- **一句话装**：把下面这句发给你的 AI 助手，它会自己装好——「帮我安装这个 Skill：https://github.com/boxiqingnian-bot/perspective-illusion-city-swap」
-- **命令行装**：`npx skills add boxiqingnian-bot/perspective-illusion-city-swap`
+- **一句话装**：把下面这句发给你的 AI 助手，它会自己装好——「帮我安装这个 Skill：https://github.com/boxiqingnian-bot/bxqn-perspective-illusion-city-swap」
+- **命令行装**：`npx skills add boxiqingnian-bot/bxqn-perspective-illusion-city-swap`
 - **手动装**：下载本仓库 ZIP，解压后把文件夹放进你的客户端（Claude Code、Codex 等支持 Skill 的环境）的 skills 目录。
 
 装好之后，之后在对话里说出 Skill 名或直接说想做哪个城市的透视错觉动画，就能调用。
