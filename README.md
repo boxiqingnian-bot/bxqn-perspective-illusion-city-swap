@@ -33,3 +33,7 @@
 ## 依赖与致谢
 
 - 执行 Skill：[dotslashsimran/simcraft](https://github.com/dotslashsimran/simcraft) 中的 perspective-illusion（MIT License，作者 Simran Sachdeva）。本 Skill 只通过生成的提示词与它交接，不包含它的代码。
+
+## 许可
+
+本 Skill 采用 MIT 许可证，见 LICENSE 文件。可以自由使用、修改和分发，包括商业用途；分发时请保留版权声明。
